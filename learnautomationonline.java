@@ -4,7 +4,7 @@ public class BankAccount {
 
 	long AccNum=323233223;// long is a primitive data type
 	Long AccountNumber;// Long is a wrapper class 
-	String holderName="Vignesh";
+
 	Integer accountBalance=45000;
 	
 	public void getBalance() {
